@@ -41,6 +41,10 @@ session_start();
                         </div>
 
                         <div class='panel__inner'>
+                            <a href='admin/admin_panel_watermark.php'>Images(watermark) manager</a>
+                        </div>
+
+                        <div class='panel__inner'>
                             <a href='../content/weight.php'>Size of</a>
                         </div>
 
